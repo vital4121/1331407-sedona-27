@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Vitali Alekseev](https://up.htmlacademy.ru/htmlcss/27/user/1331407).
-* Наставник: [Иван Жарков](https://up.htmlacademy.ru/htmlcss/27/user/191422).
+* Наставник: `Неизвестно`.
 
 ---
 
